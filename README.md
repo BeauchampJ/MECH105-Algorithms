@@ -10,7 +10,7 @@ Mech 105 Algorithms used during the year for numerical methods
 - - README.md
 - luFactor
 - - luFactor.m
-- -README.md
+- - README.md
 - Simpson
 - - Simpson.m
 - - README.md
