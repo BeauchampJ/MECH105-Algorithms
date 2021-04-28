@@ -6,7 +6,7 @@ Finds various statisical data on inputs
 ## Description
 
 While this is a pretty simple algorithm, it allows for the easy import of data and export of
-statistics on said data.
+statistics on said data. Its main purpose is to allow for easy analysis of data.
 
 ---
 
