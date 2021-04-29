@@ -24,3 +24,8 @@ statistics on said data. Its main purpose is to allow for easy analysis of data.
 -   St: total sum of the squares of the residuals
 -   Sy: Standard Deviation
 -   rSquared: Coefficient of determination
+
+---
+##TODO
+- [ ] Make presentation cleaner for input and output
+- [ ] Add support for graphing data distribution
